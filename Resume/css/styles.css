@@ -1,0 +1,30 @@
+#heading{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 80px;
+	margin-top: 60px;
+	border-bottom: 2px solid black;
+}
+#title{
+	text-decoration: underline 2px solid black;
+	font-size: 40px;
+}
+.content, .lcontent{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.glow{
+	transition: 500ms;
+	color: black;
+}
+.glow:hover{
+	background-color: #077d56;
+	transition: 500ms;
+	color: white;
+}
+#head{
+	font-size: 130%;
+	text-decoration: underline 2px solid black;
+}
